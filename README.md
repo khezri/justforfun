@@ -9,4 +9,4 @@ justforfun
 
 - [ ] order the articles
 - [ ] add donation page
-
+- [ ] add my book
